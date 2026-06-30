@@ -53,7 +53,7 @@ Follow these quick steps to stand up the pipeline and explore the interactive co
 1. Clone the repository and navigate into it:
 ```bash
 
-git clone [https://github.com/YourGitHubUsername/wind-turbine-scada-analytics.git](https://github.com/YourGitHubUsername/wind-turbine-scada-analytics.git)
+git clone https://github.com/HopeyCodeDS/wind-turbine-scada-analytics
 cd wind-turbine-scada-analytics
 ```
 
