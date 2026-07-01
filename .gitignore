@@ -6,8 +6,6 @@ __pycache__/
 .Python
 env/
 .venv/
-ENV/
-env.bak/
 venv.bak/
 
 # Docker
@@ -26,12 +24,6 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
-
-# Elasticsearch data
-es_data/
-
-# Spark checkpoints
-/tmp/checkpoint/
 
 # Environment variables
 .env
